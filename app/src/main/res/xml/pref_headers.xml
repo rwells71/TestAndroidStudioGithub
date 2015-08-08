@@ -3,15 +3,15 @@
     <!-- These settings headers are only used on tablets. -->
 
     <header
-        android:fragment="test.wells.testandroidstudiogithub.SettingsActivity$GeneralPreferenceFragment"
+        android:fragment="test.wells.programandroidstudiogithub.SettingsActivity$GeneralPreferenceFragment"
         android:title="@string/pref_header_general" />
 
     <header
-        android:fragment="test.wells.testandroidstudiogithub.SettingsActivity$NotificationPreferenceFragment"
+        android:fragment="test.wells.programandroidstudiogithub.SettingsActivity$NotificationPreferenceFragment"
         android:title="@string/pref_header_notifications" />
 
     <header
-        android:fragment="test.wells.testandroidstudiogithub.SettingsActivity$DataSyncPreferenceFragment"
+        android:fragment="test.wells.programandroidstudiogithub.SettingsActivity$DataSyncPreferenceFragment"
         android:title="@string/pref_header_data_sync" />
 
 </preference-headers>
